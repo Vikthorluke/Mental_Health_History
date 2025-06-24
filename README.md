@@ -1,5 +1,17 @@
 # Mental_Health_History Analysis
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Data Sources](#data-sources)
+3. [Tools](#tools)
+4. [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Results and Findings](results-and-findings)
+7. [Limitations](#limitations)
+8. [References](#references)
+
+
 ### Project Overview
 
 This data analysis aims to provide insights on the Mental health status of the populations from different Countries and Occupations in the year 2014 to 2015. By analyzing various aspects of the Mental health data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of Mental Health generally. It shows the relationship between whether an individual has a history of a mental health condition e.g Depression Disorder, Anxiety Disorder, Post Traumatic Stress Disorder(PTSD) etc and other variables such as Family history, Gender, Mood swings, etc.
@@ -36,13 +48,20 @@ This involves exploring the data to answer key questions such as;
 
 ### Results and Findings
 
-1. According to the analysis, 23 countries had the highest average occurence having the same value in comparison to other countries.
+The analysis results are as follows;
+1. According to the analysis, 23 countries have the highest average occurence by having the same value in comparison to other countries.
 2. Individuals that are unemployed have a higher chance of having a Mental health condition.
 3. Males are more likely to have mood swings than Females.
 4. Coroperate jobs are generally more stressful while others(unstated which) are the least stressful.
 5. Individuals without a Family history have a higher tendency to develop Mental health condition.
 6. Staying Indoors for 1-14 days leads to the highest occurence of Social anxiety, Mood swings, Change in habit and Mental health history.
-7. Generally, There are more people without a mental health history followed by those that are unsure.
-8. Only half of the individuals with a history of Mental health condition is receiving treatment.
+7. Generally, There are more people who dont have a mental health history followed by those that are unsure whether they have or not.
+8. Only 50% of the individuals with a history of Mental health condition is receiving treatment.
 
+### Limitations
 
+We had to remove some coloumns that were irrelevant to our analysis.
+
+### References
+
+- [Kaggle](kaggle.com)
