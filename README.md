@@ -26,9 +26,23 @@ In the initial data preparation phase, we performed the following tasks;
 This involves exploring the data to answer key questions such as;
 
 1. What Country has the highest average occurence of Mental health history?
-2. What Occupation has the highest average occurence of Mental health history?
+2. What Occupation has the highest occurence of Mental health history?
 3. What Gender experiences more Mood swings on an average?
 4. What is the relationship between Occupation and Growing stress?
 5. Does Family History affect Mental health History?
 6. What is the relationship between the Days in doors and Social anxiety, Mood swings, Change in habit and Mental health history?
 7. What is the percentage of Mental Health History prevalence?
+8. What percentage of individuals with mental health history is recieving treatment.
+
+### Results and Findings
+
+1. According to the analysis, 23 countries had the highest average occurence having the same value in comparison to other countries.
+2. Individuals that are unemployed have a higher chance of having a Mental health condition.
+3. Males are more likely to have mood swings than Females.
+4. Coroperate jobs are generally more stressful while others(unstated which) are the least stressful.
+5. Individuals without a Family history have a higher tendency to develop Mental health condition.
+6. Staying Indoors for 1-14 days leads to the highest occurence of Social anxiety, Mood swings, Change in habit and Mental health history.
+7. Generally, There are more people without a mental health history followed by those that are unsure.
+8. Only half of the individuals with a history of Mental health condition is receiving treatment.
+
+
