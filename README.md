@@ -16,6 +16,9 @@
 
 This data analysis aims to provide insights on the Mental health status of the populations from different Countries and Occupations in the year 2014 to 2015. By analyzing various aspects of the Mental health data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of Mental Health generally. It shows the relationship between whether an individual has a history of a mental health condition e.g Depression Disorder, Anxiety Disorder, Post Traumatic Stress Disorder(PTSD) etc and other variables such as Family history, Gender, Mood swings, etc.
 
+![Dashboard for Mental health](https://github.com/user-attachments/assets/457d3655-e15b-490c-be14-d8d8552e3f23)
+
+
 ### Data Sources
 
 The primary dataset used for this analysis is the "Mental_Health_Analysis_data.xlsx" file, containing detailed information about each individual.
