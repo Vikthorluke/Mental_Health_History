@@ -47,7 +47,7 @@ This involves exploring the data to answer key questions such as;
 5. Does Family History affect Mental health History?
 6. What is the relationship between the Days in doors and Social anxiety, Mood swings, Change in habit and Mental health history?
 7. What is the percentage of Mental Health History prevalence?
-8. What percentage of individuals with mental health history is recieving treatment.
+8. What percentage of individuals with mental health history is recieving treatment?
 
 ### Results and Findings
 
