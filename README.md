@@ -1,4 +1,4 @@
-# Mental_Health_History Analysis
+# Mental_Health_History_Analysis
 
 ## Table of Contents
 
