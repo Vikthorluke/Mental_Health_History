@@ -25,7 +25,7 @@ The primary dataset used for this analysis is the "Mental_Health_Analysis_data.x
 
 ### Tools
 
-- Excel(Used for data cleaning, data analysis and data visualization).
+- Excel (Used for data cleaning, data analysis and data visualization).
 
 ### Data Cleaning and Preparation
 
