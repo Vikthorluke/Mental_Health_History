@@ -29,7 +29,7 @@ The primary dataset used for this analysis is the "Mental_Health_Analysis_data.x
 
 ### Data Cleaning and Preparation
 
-In the initial data preparation phase, we performed the following tasks;
+In the initial data preparation phase, I performed the following tasks;
 1. Duplicated the original to make a working sheet.
 2. Removed duplicated rows.
 3. Deleted unwanted columns.
@@ -63,8 +63,8 @@ The analysis results are as follows;
 
 ### Limitations
 
-Due to Population (most being from The United States) and Gender bias (Males being more than Females), We are not able draw a complete conclusion on the Mental status. Hence, this may be an unreliable analysis.
-We had to remove some coloumns that were irrelevant to our analysis.
+1. Due to Population(most being from The United States) and Gender bias(Males being more than Females), A complete conclusion on the Mental health status cannot be made. Hence, this may be an unreliable analysis.
+2. We remove some coloumns that were irrelevant to our analysis.
 
 ### References
 
