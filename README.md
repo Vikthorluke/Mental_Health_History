@@ -63,6 +63,7 @@ The analysis results are as follows;
 
 ### Limitations
 
+Due to Population (most being from The United States) and Gender bias (Males being more than Females), We are not able draw a complete conclusion on the Mental status. Hence, this may be an unreliable analysis.
 We had to remove some coloumns that were irrelevant to our analysis.
 
 ### References
